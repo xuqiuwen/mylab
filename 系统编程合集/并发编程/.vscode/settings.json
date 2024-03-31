@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "concur-hash-little.h": "c",
+        "stdatomic.h": "c"
+    }
+}
